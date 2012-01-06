@@ -1,0 +1,11 @@
+{
+    "name": "webshell"
+  , "version": "0.0.1"
+  , "description" : "Web based shell with encrypted fs."
+  , "authoer" : "Adam Blackburn <regality@gmail.com>"
+  , "dependencies": {
+      "express": "2.5.2"
+    , "jade": ">= 0.0.1"
+    , "mongolian": ">= 0.1.13"
+  }
+}
